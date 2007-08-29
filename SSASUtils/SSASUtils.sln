@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSASUtils.ObjectProcessor", "SSASUtils.ObjectProcessor\SSASUtils.ObjectProcessor.csproj", "{6338E03B-048D-4802-BFE7-4D4426F5DDCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSASUtils.Common", "SSASUtils.Common\SSASUtils.Common.csproj", "{1E6D8BF8-6F61-4EA4-B245-C47D76810AF2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs04.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SSASUtils.Common\\SSASUtils.Common.csproj
+		SccProjectName1 = SSASUtils.Common
+		SccLocalPath1 = SSASUtils.Common
+		SccProjectUniqueName2 = SSASUtils.ObjectProcessor\\SSASUtils.ObjectProcessor.csproj
+		SccProjectName2 = SSASUtils.ObjectProcessor
+		SccLocalPath2 = SSASUtils.ObjectProcessor
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6338E03B-048D-4802-BFE7-4D4426F5DDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6338E03B-048D-4802-BFE7-4D4426F5DDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6338E03B-048D-4802-BFE7-4D4426F5DDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6338E03B-048D-4802-BFE7-4D4426F5DDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6D8BF8-6F61-4EA4-B245-C47D76810AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6D8BF8-6F61-4EA4-B245-C47D76810AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6D8BF8-6F61-4EA4-B245-C47D76810AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6D8BF8-6F61-4EA4-B245-C47D76810AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
