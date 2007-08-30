@@ -93,7 +93,7 @@ namespace SSASUtils.ObjectProcessor
         private void Main_Load(object sender, EventArgs e)
         {
             DisableControls();
-            btnConnect_Click(sender, e);
+            //btnConnect_Click(sender, e);
 
         }
 
