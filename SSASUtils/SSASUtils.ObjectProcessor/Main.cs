@@ -140,10 +140,12 @@ namespace SSASUtils.ObjectProcessor
                     if (xmlaMessage.GetType().Name == "XmlaError")
                     {
                         // error
+                        MessageBox.Show(xmlaMessage.Description);
                     }
                     else
                     {
                         // warning
+                        MessageBox.Show(xmlaMessage.Description);
                     }
                 }
 
@@ -236,10 +238,12 @@ namespace SSASUtils.ObjectProcessor
                     if (xmlaMessage.GetType().Name == "XmlaError")
                     {
                         // error
+                        MessageBox.Show(xmlaMessage.Description);
                     }
                     else
                     {
                         // warning
+                        MessageBox.Show(xmlaMessage.Description);
                     }
                 }
 
